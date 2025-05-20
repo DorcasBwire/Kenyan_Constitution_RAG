@@ -1,6 +1,3 @@
-# Constitution of Kenya RAG
-This project provides a Streamlit-powered frontend interface to search and retrieve information from the Constitution of Kenya PDF using advanced AI capabilities powered by Groq and Langchain. Users can ask questions about the constitution and receive real-time answers along with the relevant sources.
-
 ## Kenyan Constitution AI Search
 
 This project provides a Streamlit-powered frontend interface to search and retrieve information from the Constitution of Kenya PDF using advanced AI capabilities powered by Groq and Langchain. Users can ask questions about the constitution and receive real-time answers along with the relevant sources.
