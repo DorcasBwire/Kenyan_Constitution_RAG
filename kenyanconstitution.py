@@ -20,7 +20,7 @@ from langchain_core.output_parsers import StrOutputParser
 #Load env
 load_dotenv()
 #Read env. files
-os.environ["GROQ_API_KEY"] = "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"
+os.environ["GROQ_API_KEY"] = "GROQ_API_KEY"
 
 
 GROQ_API_KEY = os.environ["GROQ_API_KEY"]
